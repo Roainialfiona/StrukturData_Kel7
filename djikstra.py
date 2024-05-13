@@ -81,6 +81,7 @@ while unvisited_cities:
 
         return distances
     
+
 petaIndonesia = Graph()
 petaIndonesia.tambahkanKota("Surabaya")
 petaIndonesia.tambahkanKota("Sidoarjo")
